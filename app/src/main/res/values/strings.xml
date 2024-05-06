@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesTest</string>
+    <string name="fab_content_desc">Fab</string>
+    <string name="create_note">Создать заметку</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="create">Создать</string>
+    <string name="notes">Заметки</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="save">Сохранить</string>
+    <string name="now_empty">Пока заметок нет</string>
+</resources>
